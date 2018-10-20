@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    char *alunos[5]={"Rogerdddddddddddddddddddddddddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww","Marlon","Ronaldo","Franscisco","Monike"};
+    char *alunos[5]={"Roger","Marlon","Ronaldo","Franscisco","Jose"};
     float nota[5];
     
     label:
